@@ -11,5 +11,10 @@ hide_description: true
 
 <!--author-->
 
-###GitHub
-[![Johnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperSphereStudio)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub
+
+[![Johnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperSphereStudio@show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Julia Dot Net](https://github-readme-stats.vercel.app/api/pin/?username=HyperSphereStudio&repo=JdotNET&show_owner=true)](https://github.com/thepracticaldev/dev.to)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyperSphereStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
