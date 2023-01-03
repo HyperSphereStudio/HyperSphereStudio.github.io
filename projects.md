@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Projects
-description: >
-   Projects that I have author of and actively maintain
 sitemap: false
-permalink: /projects/
 ---
 
 ![Orbital Mechanics Animation](https://github.com/HyperSphereStudio/N-Body-Simulator/blob/main/Trajectory.gif)
