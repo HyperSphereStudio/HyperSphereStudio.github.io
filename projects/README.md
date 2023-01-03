@@ -24,5 +24,5 @@ permalink: /projects/
 
 
 
-[NBodySimulator]: https://github.com/HyperSphereStudio/SpaceFlightDynamicsFinal
-[JdotNET]: https://github.com/HyperSphereStudio/JdotNET
+[NBodySimulator]: https://github.com/HyperSphereStudio/SpaceFlightDynamicsFinal/README.md
+[JdotNET]: https://github.com/HyperSphereStudio/JdotNET/README.md
