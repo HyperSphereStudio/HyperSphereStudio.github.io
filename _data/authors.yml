@@ -8,9 +8,13 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am currently studying Engineering Physics at Embry-Riddle Aeronautical Unversity. 
-    Over the COVID pandemic I decided to learn more about Computer Science and became proffecient with over 9 programming 
-    languages (C++, Julia etc) and over many topics (Client-Server Systems, Numerical Computation & Simulation, Program Language Design etc).
+    I am currently studying Engineering Physics (Bachelors & Accelerated Masters) at Embry-Riddle Aeronautical Unversity. 
+    As an undergraduate studying physics, I have developed a strong interest in three main areas: quantum computing, fusion energy, and space.
+    
+    Over the COVID pandemic I decided to learn more about Computer Science. 
+    I have since become very prociefient in C#, Java, Python, Julia, C++, and C, and have some exposure to other programming languages as well (Matlab etc.) 
+    and over many topics (Client-Server Systems, Numerical Computation, Simulation & Optimization, Embedded Systems, Program Language Design etc).
+
    
 
   # This photo will be used in the about section
