@@ -5,6 +5,14 @@ sitemap: false
 ---
 
 ![Orbital Mechanics Animation](assets/gifs/Trajectory.gif)
+[![N Body Simulator](https://github-readme-stats.vercel.app/api/pin/?username=HyperSphereStudio&repo=N-Body-Simulator&show_owner=true)](https://github.com/HyperSphereStudio/N-Body-Simulator)
+
+
+![GlobalMagentoView](assets/gifs/GlobalMagnetoView.gif)
+![MainSpaceWeatherEvent](assets/imgs/main_event.png)
+[![Spedas](https://github-readme-stats.vercel.app/api/pin/?username=HyperSphereStudio&repo=Spedas&show_owner=true)](https://github.com/HyperSphereStudio/Spedas)
+
+
 
 [![Julia Dot Net](https://github-readme-stats.vercel.app/api/pin/?username=HyperSphereStudio&repo=JdotNET&show_owner=true)](https://github.com/HyperSphereStudio/JdotNET)
 
